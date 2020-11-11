@@ -1,2 +1,2 @@
 # ccxg.github.io
-出处小哥的车站
+查车小哥的cc站：访问 http://ccxg.cc
