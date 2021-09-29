@@ -1,15 +1,11 @@
-这个网站是用来存放我的markdown笔记，利用GitHub Pages搭建，直接使用官方主题，只要上传markdown就可以自动转换成html，相比在GitHub仓库，这个网站速度要快一点，观感也要好。
+你好我是阿查，一个正能量博主，你有任何问题都可以私聊或者评论我的微博。
 
-如果也想尝试，先建立一个pages仓库，参照我的[仓库](https://github.com/csjue/csjue.github.io)把_config.yml index.md修改。
+下面是我想推荐给你的两个下载工具
 
-[C++](_posts/2020-9-24-cpp.md)
+[迅雷](https://dl.xunlei.com/#mod01)
 
-[JavaScript](_posts/2020-9-25-JavaScript.md)
+[夸克浏览器](https://www.myquark.cn/)
 
-[算法](_posts/2020-9-25-algorithms.md)
+![我的老婆小桃](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fi0.hdslb.com%2Fbfs%2Farticle%2F19f481bb9dc85671f3b07a9b4b3151fdd8843422.jpg "桃乃木")
 
-[SQL](_posts/2020-9-25-SQL.md)
-
-[csjue的力扣](_posts/2020-9-25-leetcode.md)
-
-联系方式 csjue_sz@foxmail.com
+联系方式 ccxg956@163.com
