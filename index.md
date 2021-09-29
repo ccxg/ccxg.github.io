@@ -6,16 +6,14 @@
 
 [夸克浏览器](https://www.myquark.cn/)
 
-<<<<<<< HEAD
+
 两个公众号
 <img src="https://z3.ax1x.com/2021/09/30/4IpIf0.jpg" width="40%" align="left">
 <img src="https://z3.ax1x.com/2021/09/30/4Ipxt1.jpg" width="40%" align="right">
 
 <p align="left">优青酒馆(日更)</p> <p align="right">查哥四世</p>
 ![我的老婆小桃](https://z3.ax1x.com/2021/09/29/457kPH.jpg "桃乃木")
-=======
-![MY WIFI](https://z3.ax1x.com/2021/09/29/457kPH.jpg "桃乃木")
->>>>>>> 523add2c14f107c805de846c4acab7058caa9cc8
+
 
 
 
