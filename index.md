@@ -7,9 +7,8 @@
 [夸克浏览器](https://www.myquark.cn/)
 
 
-两个公众号
+下面是两个公众号
 
-<p align="left">优青酒馆(日更)</p> <p align="right">查哥四世</p>
 <img src="https://z3.ax1x.com/2021/09/30/4IpIf0.jpg" width="40%" align="left">
 <img src="https://z3.ax1x.com/2021/09/30/4Ipxt1.jpg" width="40%" align="right">
 
