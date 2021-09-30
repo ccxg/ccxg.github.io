@@ -9,8 +9,8 @@
 
 ### 下面是两个公众号
 
-<img src="https://z3.ax1x.com/2021/09/30/4IpIf0.jpg" width="40%" align="left">
-<img src="https://z3.ax1x.com/2021/09/30/4Ipxt1.jpg" width="40%" align="right">
+<img src="_post/qrcode_.jpg" width="40%" align="left">
+<img src="_post/qrcode_8.jpg" width="40%" align="right">
 
 ![我的老婆小桃](https://z3.ax1x.com/2021/09/29/457kPH.jpg "桃乃木")
 
